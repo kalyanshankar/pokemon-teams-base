@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/pp/:path*", "destination": "https://pokepast.es/:path*" }
+  ]
+}
